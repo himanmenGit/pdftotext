@@ -1,5 +1,7 @@
 # PDF파일 텍스트 변환 패지키 비교 (2개)
 
+*파이썬 버전 3.6.5
+
 ## `pdftotext` 
 
 * [링크](https://github.com/jalan/pdftotext)
